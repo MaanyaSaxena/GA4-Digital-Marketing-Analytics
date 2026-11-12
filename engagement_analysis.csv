@@ -1,0 +1,4 @@
+device_category,total_sessions,engaged_sessions,engagement_rate,avg_engagement_seconds,total_page_views,page_views_per_session
+desktop,68649,62321,90.78,49.25,244577,3.56
+mobile,47088,42733,90.75,50.07,165210,3.51
+tablet,2643,2379,90.01,46.28,9217,3.49

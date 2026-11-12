@@ -1,0 +1,12 @@
+# Office temporary/lock files
+~$*
+*.tmp
+*.bak
+
+# Python / notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
