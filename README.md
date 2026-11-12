@@ -1,1 +1,0 @@
-These CSV files are exported result snapshots from the January 2021 GA4 BigQuery analysis. They are included to make the dashboard and reported findings transparent and reproducible. See the root README and SQL scripts for definitions and limitations.
